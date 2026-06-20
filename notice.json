@@ -1,6 +1,13 @@
 {
   "show_notice": true,
-  "title": "নতুন আপডেট এসেছে!",
-  "message": "দয়া করে আমাদের অ্যাপের নতুন ভার্সনটি ডাউনলোড করে নিন।",
+  "title": "Update Notice",
+  "message": "This app has been updated with new features and improvements.
+
+👉 Click the button below to check for the latest updates anytime and stay up-to-date with the newest version.
+
+✅ New Features
+✅ Bug Fixes
+✅ Performance Improvements
+✅ Latest FIFA Updates",
   "button_url": "https://t.me/third_eye666"
 }
