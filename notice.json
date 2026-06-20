@@ -1,13 +1,6 @@
 {
   "show_notice": true,
   "title": "Update Notice",
-  "message": "This app has been updated with new features and improvements.
-
-👉 Click the button below to check for the latest updates anytime and stay up-to-date with the newest version.
-
-✅ New Features
-✅ Bug Fixes
-✅ Performance Improvements
-✅ Latest FIFA Updates",
+  "message": "Click SHOW button to check for the newest features, fixes, and app improvements anytime",
   "button_url": "https://t.me/third_eye666"
 }
